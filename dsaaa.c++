@@ -2,7 +2,9 @@
 #include<iostream>
 using namespace std;
 int main() {
-    cout<<"hello world";
+    int sum = 6;
+    cout<<"hello world"<<sum;
+
 
     return 0;
 }

@@ -6,7 +6,8 @@ int main(){
     // int y = 8;
 
     int x = 54 , y = 67;
-    cout<<"so this is theprogram of the sum"<<"so this is the value of x:"<<x<<"and this is the value of y:"<<y
-    <<"and the sum is"<< x+y;
+    float pi = 3.14;
+    cout<<"so this is theprogram of the sum\n"<<"so this is the value of x:\n"<<x<<"and this is the value of y:\n"<<y
+    <<"and the sum is\n"<< x+y;
     return 0;
 }

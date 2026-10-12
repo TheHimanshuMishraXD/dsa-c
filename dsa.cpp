@@ -13,8 +13,8 @@ int main(){
 
     // int x = 54 , y = 67;
     // float pi = 3.14;
-    cout<<"so this is theprogram of the sum\n"<<"so this is the value of x:\n"<<x<<"and this is the value of y:\n"<<y
-    <<"and the sum is\n"<< x+y;
-    cout<<"this is the value of pi is :\n"<<pi;
+    // cout<<"so this is theprogram of the sum\n"<<"so this is the value of x:\n"<<x<<"and this is the value of y:\n"<<y
+    // <<"and the sum is\n"<< x+y;
+    // cout<<"this is the value of pi is :\n"<<pi;
     return 0;
 }

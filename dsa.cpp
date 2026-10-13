@@ -21,7 +21,3 @@
 //     // cout<<"this is the value of pi is :\n"<<pi;
 //     return 0;
 // }
-
-
-
-#include<iost

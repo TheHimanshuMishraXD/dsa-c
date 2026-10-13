@@ -8,11 +8,11 @@ int main(){
     cin>>a;
 
 
-    
+
     cout<<"\nenter the value of a\n"<<b;
     cin>>b;
 
 
-    cout<<"here is the some of given value"<<a+b;
+    cout<<"here is the some of given value"<<a+b<<endl;
     return 0;
 } 

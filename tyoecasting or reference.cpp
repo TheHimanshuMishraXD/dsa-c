@@ -8,5 +8,5 @@ int main(){
     cout<<"enter the value of b"<<endl;
     cin>>b;
     c = a+b;
-    cout<<"here is the resultant value c"<<c<<endl;
+    cout<<"here is the resultant value c   :"<<c<<endl;
 }

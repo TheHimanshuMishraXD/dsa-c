@@ -33,15 +33,15 @@
 //('''Definition of Reference Variable in C++:
 // A reference variable is an alternative name (alias) for an existing variable. 
 // It is declared using the & symbol and must be initialized when declared.''')
-#include<iostream>
-using namespace std;
-int main() {
-float x = 45.5;
-float & y = x;
-cout<<x<<endl;
-cout<<y<<endl;
-return 0;
-}
+// #include<iostream>
+// using namespace std;
+// int main() {
+// float x = 45.5;
+// float & y = x;
+// cout<<x<<endl;
+// cout<<y<<endl;
+// return 0;
+// }
 
 
 
@@ -50,5 +50,6 @@ return 0;
 using namespace std;
 int main() {
 int a = 45;
+cout<<"the value of a is   :"<<(float)a<<endl;
 return 0;
 }

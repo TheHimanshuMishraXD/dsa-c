@@ -59,3 +59,31 @@ cout<<"the expression is"<<a+ (int)b<<endl;
 cout<<"the expression is"<<a+ int(b)<<endl;
 return 0;
 }
+
+
+
+// Practice Program: Student Marks Calculator
+// Task: Ek C++ program bana jo ye concepts use kare:
+// - Global aur local variable (::)
+// - Reference variable (&)
+// - Typecasting (int, float)
+// - sizeof() operator
+// Expected output
+// Global value of marks: 90
+// Enter your marks: 75
+// Original marks: 75
+// Updated marks: 80
+// Float value: 80.5
+// Integer conversion: 80
+// Size of float: 4
+
+
+// Note: sizeof(float) usually 4 bytes hota hai.
+// Tere liye hints 🧠
+// 1. Global variable marks = 90 declare kar.
+// 2. main() mein local variable marks bana aur user se input le.
+// 3. ::marks use karke global variable print kar.
+// 4. int &ref = marks; se reference variable bana.
+// 5. ref = 80; karke original variable ki value change kar.
+// 6. float value ko int mein typecast kar.
+// 7. sizeof() se float ka size print kar.

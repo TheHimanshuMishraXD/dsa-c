@@ -46,7 +46,7 @@
 using namespace std;
 int main(){
     int a=3 , b=4;
-    int c = (a*5)+b;
+    int c = (a*5)+b;  // precidence ka means konsa operator sabse phle resolve hogas
     cout<<c<<endl;
 
 }

@@ -17,22 +17,36 @@
 
 
 // *****************************MANIPULATORS IN CPP*********************************************************
+// #include<iostream>
+// #include<iomanip>
+// using namespace std;
+// int main() {
+
+//     int a=33,b=48,c=856;
+
+//      cout<<"the value of a is    :"<<a<<endl;
+//     cout<<"the value of b is    :"<<b<<endl;
+//     cout<<"the value of c is    :"<<c<<endl;
+
+//     cout<<"the value of a is    :"<<setw(4)<<a<<endl;
+//     cout<<"the value of b is    :"<<setw(4)<<b<<endl;
+//     cout<<"the value of c is    :"<<setw(4)<<c<<endl;
+
+
+
+//     return 0;
+// }
+
+
+
+
+// ***************************operator precidence in c++***********************************************
+
 #include<iostream>
-#include<iomanip>
 using namespace std;
-int main() {
+int main(){
+    int a=3 , b=4;
+    int c = (a*5)+b;
+    cout<<c<<endl;
 
-    int a=33,b=48,c=856;
-
-     cout<<"the value of a is    :"<<a<<endl;
-    cout<<"the value of b is    :"<<b<<endl;
-    cout<<"the value of c is    :"<<c<<endl;
-
-    cout<<"the value of a is    :"<<setw(4)<<a<<endl;
-    cout<<"the value of b is    :"<<setw(4)<<b<<endl;
-    cout<<"the value of c is    :"<<setw(4)<<c<<endl;
-
-
-
-    return 0;
 }

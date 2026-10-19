@@ -98,6 +98,8 @@ int main(){
     cin>>marks;
     cout<<"here is your marks"<<::marks<<endl;
     int &ref = marks;
-    
+    ref = 80;
+    cout<<"here is your float value is typecast to int"<<(int)marks<<endl;
+    cout<<"here is your size of ref"<<sizeof(ref)<<endl;
 
 }

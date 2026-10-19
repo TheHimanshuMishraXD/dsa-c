@@ -56,6 +56,6 @@ cout<<"the value of b is   :"<<(int)b<<endl;
 int c = int (b);
 
 cout<<"the expression is"<<a+ (int)b<<endl;
-cout<<"the expression is"<<a+ (b)int<<endl;
+cout<<"the expression is"<<a+ (b) int<<endl;
 return 0;
 }

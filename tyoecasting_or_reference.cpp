@@ -18,7 +18,7 @@ int main(){
 
 float d=34.4;
 long double e = 34.4;
-cout<,"here is the size of 34.4f is"<<sizeof(34.4f)
+cout<,"here is the size of 34.4f is"<<sizeof(34.4f);
 // 34.4f; //here f is denode to floating point number and l denodes too long double
 cout<<"the value of d is"<<d<<endl<<"the value of e is"<<e<<endl;
 return 0;

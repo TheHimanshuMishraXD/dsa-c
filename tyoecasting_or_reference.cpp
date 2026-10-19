@@ -3,24 +3,39 @@
 // Hinglish mein
 // Scope Resolution Operator (::) ka use kisi specific scope ke variable, function ya class member ko access karne ke liye hota hai.
 
+// #include<iostream>
+// using namespace std;
+// int c = 45;
+// int main(){
+//     // int a,b,c;
+// //     cout<<"\nenter the number of a:\n"<<endl;
+// //     cin>>a;
+// //     cout<<"\nenter the value of b\n"<<endl;
+// //     cin>>b;
+// //     c = a+b;
+// //     cout<<"here is the resultant value c   \n:"<<c<<endl;
+// //       cout<<"here is the the global value c   \n:"<<::c;
+
+// float d=34.4f;
+// long double e = 34.4;
+// cout<<"here is the size of 34.4f is   :"<<sizeof(34.4f)<<endl;
+// // 34.4f; //here f is denode to floating point number and l denodes too long double
+// cout<<"the value of d is"<<d<<endl<<"the value of e is"<<e<<endl;
+// return 0;
+
+//      }     
+
+
+
+// ************************** build in data types **********************************************
+
+// 
+//('''Definition of Reference Variable in C++:
+// A reference variable is an alternative name (alias) for an existing variable. 
+// It is declared using the & symbol and must be initialized when declared.''')
 #include<iostream>
 using namespace std;
-int c = 45;
-int main(){
-    // int a,b,c;
-//     cout<<"\nenter the number of a:\n"<<endl;
-//     cin>>a;
-//     cout<<"\nenter the value of b\n"<<endl;
-//     cin>>b;
-//     c = a+b;
-//     cout<<"here is the resultant value c   \n:"<<c<<endl;
-//       cout<<"here is the the global value c   \n:"<<::c;
-
-float d=34.4f;
-long double e = 34.4;
-cout<<"here is the size of 34.4f is   :"<<sizeof(34.4f)<<endl;
-// 34.4f; //here f is denode to floating point number and l denodes too long double
-cout<<"the value of d is"<<d<<endl<<"the value of e is"<<e<<endl;
-return 0;
-
-     }     
+int main() {
+float x = 45.5;
+float & y = x;
+}

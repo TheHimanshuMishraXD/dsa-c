@@ -53,5 +53,6 @@ int a = 45;
 float b = 42.8;
 cout<<"the value of a is   :"<<(float)a<<endl;
 cout<<"the value of b is   :"<<(int)b<<endl;
+int c = int (b);
 return 0;
 }

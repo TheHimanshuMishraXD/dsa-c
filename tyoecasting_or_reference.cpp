@@ -42,3 +42,13 @@ cout<<x<<endl;
 cout<<y<<endl;
 return 0;
 }
+
+
+
+// ******** typecasting*************************
+#include<iostream>
+using namespace std;
+int main() {
+int a = 45;
+return 0;
+}

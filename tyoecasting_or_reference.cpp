@@ -54,5 +54,8 @@ float b = 42.8;
 cout<<"the value of a is   :"<<(float)a<<endl;
 cout<<"the value of b is   :"<<(int)b<<endl;
 int c = int (b);
+
+cout<<"the expression is"<<a+ (int)b<<endl;
+cout<<"the expression is"<<a+ (b)int<<endl;
 return 0;
 }

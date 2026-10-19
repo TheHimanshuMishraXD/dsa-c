@@ -16,7 +16,7 @@ int main(){
 //     cout<<"here is the resultant value c   \n:"<<c<<endl;
 //       cout<<"here is the the global value c   \n:"<<::c;
 
-float d=34.4;
+float d=34.4f;
 long double e = 34.4;
 cout<<"here is the size of 34.4f is"<<sizeof(34.4f)<<endl;
 // 34.4f; //here f is denode to floating point number and l denodes too long double

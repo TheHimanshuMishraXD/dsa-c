@@ -96,5 +96,8 @@ int main(){
     int marks;
     cout<<"enter your marks"<<endl;
     cin>>marks;
+    cout<<"here is your marks"<<::marks<<endl;
+    int &ref = marks;
+    
 
 }

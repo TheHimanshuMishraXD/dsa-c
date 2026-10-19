@@ -38,4 +38,7 @@ using namespace std;
 int main() {
 float x = 45.5;
 float & y = x;
+cout<<x;
+cout<<y;
+return 0;
 }

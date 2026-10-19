@@ -101,5 +101,6 @@ int main(){
     ref = 80;
     cout<<"here is your float value is typecast to int"<<(int)marks<<endl;
     cout<<"here is your size of ref"<<sizeof(ref)<<endl;
+    return 0;
 
 }

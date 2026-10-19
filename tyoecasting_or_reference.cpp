@@ -87,3 +87,14 @@ return 0;
 // 5. ref = 80; karke original variable ki value change kar.
 // 6. float value ko int mein typecast kar.
 // 7. sizeof() se float ka size print kar.
+
+
+#include<iostream>
+using namespace std;
+int marks = 90;
+int main(){
+    int marks;
+    cout<<"enter your marks"<<endl;
+    cin>>marks;
+
+}

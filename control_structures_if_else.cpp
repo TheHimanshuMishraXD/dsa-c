@@ -7,7 +7,7 @@ cin>>age;
 if (age<18){
     cout<<"you cannot come in our party"<<endl;
 }
-else if(age<1){
+else if(age<1 and age == 0){
     cout<<"you are not born yet"<<endl;
 }
 else if (age==18){

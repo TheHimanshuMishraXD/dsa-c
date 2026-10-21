@@ -33,13 +33,13 @@ int main(){
     {
     case 18:
         cout<<"you are  18  years old"<<endl;
-        break;
+        // break;
     case 22:
         cout<<"you are 22 years old guy"<<endl;
-        break;
+        // break;
     case 30:
         cout<<"you are 30 years old"<<endl;
-        break;
+        // break;
     default:
         break;
     }

@@ -39,7 +39,7 @@ int main(){
 
     // }
 
-
+// infinte while loop in cpp
     while(true){
         cout<<i<<endl;
         i++;

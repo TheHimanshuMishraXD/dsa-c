@@ -15,4 +15,4 @@ else {
     cout<<"You have fully access to come in the party"<<endl;
 }
     return 0;
-}
+}          

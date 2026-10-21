@@ -4,7 +4,7 @@ int main(){
 int age;
 cout<<"enter your current age:\n"<<endl;
 cin>>age;
-if (age<18){
+if (age<18 && age>0){
     cout<<"you cannot come in our party"<<endl;
 }
 else if(age<1 and age == 0){

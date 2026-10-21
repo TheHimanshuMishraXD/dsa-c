@@ -1,48 +1,63 @@
+// // #include<iostream>
+// // using namespace std;
+// // int main(){
+// //     int i=0;
+
+
+// // // syntax for for loop
+// // // for(initialization;condtion;updation)
+// //     // for (int i = 0; i < 25; i++)
+// //     // {
+// //     // cout<<i<<endl;
+// //     // }
+
+
+
+// // // infinite for loop
+// //   for (int i = 0; 15 < 25; i++)
+// //     {
+// //     cout<<i<<endl;
+// //     }
+    
+// // return 0;
+// // }
+
+
 // #include<iostream>
 // using namespace std;
 // int main(){
-//     int i=0;
-
-
-// // syntax for for loop
-// // for(initialization;condtion;updation)
-//     // for (int i = 0; i < 25; i++)
+//     int i =0;
+//     // syntax of while loop
+//     // while (condition)
 //     // {
-//     // cout<<i<<endl;
+//     //     // /* code */ statement
+//     // }
+    
+//     // while(i<=40){
+//     //     cout<<i<<endl;
+//     //     i++;
+
 //     // }
 
-
-
-// // infinite for loop
-//   for (int i = 0; 15 < 25; i++)
-//     {
-//     cout<<i<<endl;
+// // infinte while loop in cpp
+//     while(true){
+//         cout<<i<<endl;
+//         i++;
 //     }
-    
-// return 0;
+//     return 0;
 // }
 
+// do while loop in c++
 
 #include<iostream>
 using namespace std;
 int main(){
-    int i =0;
-    // syntax of while loop
-    // while (condition)
-    // {
-    //     // /* code */ statement
-    // }
-    
-    // while(i<=40){
-    //     cout<<i<<endl;
-    //     i++;
 
-    // }
-
-// infinte while loop in cpp
-    while(true){
+    int i =0 ;
+    do
+    {
         cout<<i<<endl;
-        i++;
-    }
-    return 0;
-}               
+    } while (i<=40);
+    
+    
+}

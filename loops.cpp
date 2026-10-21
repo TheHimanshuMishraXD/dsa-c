@@ -57,6 +57,7 @@ int main(){
     do
     {
         cout<<i<<endl;
+        i++;
     } while (i<=40);
     
     

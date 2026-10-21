@@ -58,7 +58,7 @@ int main(){
     {
         cout<<i<<endl;
         i++;
-    } while (i<=40);
+    } while (i<=40);  // main diff ye h ki do while loop ik na ik baar to chlega hi uske baad condition ke hisaab se chlega
     
     
 }

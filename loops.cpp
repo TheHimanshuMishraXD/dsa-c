@@ -6,7 +6,11 @@ int main(){
 
 // syntax for for loop
 // for(initialization;condtion;updation)
-    for (int i = 0; i < 25; i++)
+    // for (int i = 0; i < 25; i++)
+    // {
+    // cout<<i<<endl;
+    // }
+  for (int i = 0; 15 < 25; i++)
     {
     cout<<i<<endl;
     }

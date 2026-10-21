@@ -33,12 +33,12 @@ int main(){
 
 
 if(age<18){
-    cout<<"entru denied"<<endl;
+    cout<<"entry denied"<<endl;
 }
-else if(age>18 && id_card = 1){
+else if(age>=18 && id_card == 1){
     cout<<"entry allowed"<<endl;
 }
-else if(age>=18 || id_card = 0){
+else{
     cout<<"id card required"<<endl;
 }
 

@@ -10,5 +10,7 @@ if (age<18){
 else if (age==18){
     cout<<"you are a lid and you have access in the party via using kids card"<<endl;
 }
+
+else{}
     return 0;
 }

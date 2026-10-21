@@ -49,4 +49,10 @@ int main(){
     int c = (a*5)+b;  // precidence ka means konsa operator sabse phle resolve hoga // cpp reference site
     cout<<c<<endl;
 
-}
+}                      
+
+
+
+
+
+

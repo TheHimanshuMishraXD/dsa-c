@@ -5,8 +5,10 @@ int age;
 cout<<"enter your current age:\n"<<endl;
 cin>>age;
 if (age<18){
-    cout<<"you cannot come in out party"
+    cout<<"you cannot come in out party"<<endl;
 }
-else if (age)
+else if (age==18){
+    cout<<"you are a lid and you have access in the party via using kids card"<<endl;
+}
     return 0;
 }

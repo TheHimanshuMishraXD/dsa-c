@@ -21,7 +21,7 @@ if (age<0){
 else if (age==0){
     cout<<"you are just born brother chill!!!!"<<endl;
 }
-else if (age<17 and age==17){
+else if (age<18){
     cout<<"you are currently minor"<<endl;
 
 }

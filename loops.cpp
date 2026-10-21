@@ -1,19 +1,48 @@
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int i=0;
+
+
+// // syntax for for loop
+// // for(initialization;condtion;updation)
+//     // for (int i = 0; i < 25; i++)
+//     // {
+//     // cout<<i<<endl;
+//     // }
+
+
+
+// // infinite for loop
+//   for (int i = 0; 15 < 25; i++)
+//     {
+//     cout<<i<<endl;
+//     }
+    
+// return 0;
+// }
+
+
 #include<iostream>
 using namespace std;
 int main(){
-    int i=0;
-
-
-// syntax for for loop
-// for(initialization;condtion;updation)
-    // for (int i = 0; i < 25; i++)
+    int i =0;
+    // syntax of while loop
+    // while (condition)
     // {
-    // cout<<i<<endl;
+    //     // /* code */ statement
     // }
-  for (int i = 0; 15 < 25; i++)
-    {
-    cout<<i<<endl;
-    }
     
-return 0;
-}
+    // while(i<=40){
+    //     cout<<i<<endl;
+    //     i++;
+
+    // }
+
+
+    while(true){
+        cout<<i<<endl;
+        i++;
+    }
+    return 0;
+}               

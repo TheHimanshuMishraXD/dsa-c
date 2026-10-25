@@ -6,5 +6,6 @@ int main()
 {
     int a = 3;
     int*b = &a;
+    cout<<b<<endl;
     return 0;
 }

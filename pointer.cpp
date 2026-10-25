@@ -10,5 +10,7 @@ int main()
     cout<<"the adress of a is:"<<&a<<endl;
 
     //  &  ---> address of operator
+        cout<<"the adress of a is:"<<&a<<endl;
+
     return 0;
 }

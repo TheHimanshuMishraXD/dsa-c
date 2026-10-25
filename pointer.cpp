@@ -8,6 +8,6 @@ int main()
     int*b = &a;
     cout<<b<<endl;
 
-    //  &  ---> adress of operator
+    //  &  ---> address of operator
     return 0;
 }

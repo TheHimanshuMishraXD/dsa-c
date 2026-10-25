@@ -13,6 +13,8 @@ int main()
 
     //  &  ---> derefernce operator (agar hame pata lagaa hai ki kya value usme store hai to ham derefrence ka use krege)
         cout<<"the adress of a is:"<<*b<<endl;
-
+// so lets we go to talk about pointer to pointer concept usually isme 2 se represent krte hai 
+     int **c= &b;
+     cout<<c<<endl; 
     return 0;
 }

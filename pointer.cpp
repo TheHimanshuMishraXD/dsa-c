@@ -12,7 +12,7 @@ int main()
     cout<<"the adress of a is:"<<&a<<endl;
 
     //  &  ---> derefernce operator (agar hame pata lagaa hai ki kya value usme store hai to ham derefrence ka use krege)
-        cout<<"the adress of a is:"<<&a<<endl;
+        cout<<"the adress of a is:"<<*b<<endl;
 
     return 0;
 }

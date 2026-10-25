@@ -6,7 +6,7 @@ int main()
 {
     int a = 3;
     int*b = &a;
-    cout<<b<<endl;
+    cout<<"the adress of a is:"<<b<<endl;
 
     //  &  ---> address of operator
     return 0;

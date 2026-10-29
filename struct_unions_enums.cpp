@@ -17,6 +17,8 @@ struct Employee
 int main()
 {
     struct Employee himanshu;
+    struct Employee shubham;
+    struct Employee harsh;
     himanshu.eid = 1;
     himanshu.favchar = 'c';
     himanshu.salary = 555.55;

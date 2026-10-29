@@ -11,15 +11,15 @@ typedef struct Employee
 } ep;
 // here agar hame yaha par short karna ho kisi bhi structure just like employee ko to apn type def use kr skte ho to 
 // employee ko apn convert kar skte hai ep ya kisi bhi given keyword me
-
+// nahi to struct use krege
 
 
 
 int main()
 {
-    struct Employee himanshu;
-    struct Employee shubham;
-    struct Employee harsh;
+    ep himanshu;
+    struct ep shubham;
+    struct ep harsh;
     himanshu.eid = 1;
     himanshu.favchar = 'c';
     himanshu.salary = 555.55;

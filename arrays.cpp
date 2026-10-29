@@ -47,6 +47,7 @@ int main()
     //     cout<<"the value of marks[p+1] is "<<*(p+1)<<endl;;
     // cout<<"the value of marks[p+2] is "<<*(p+2)<<endl;;
     cout<<*(p++)<<endl;;
+    cout<<*(++p)<<endl;
     cout<<*p;
 
     return 0;

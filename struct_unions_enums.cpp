@@ -3,13 +3,14 @@
 
 #include<iostream>
 using namespace std;
-struct Employee
+typedef struct Employee
 {
     int eid;
     char favchar;
     float salary;
-};
-
+} ep;
+// here agar hame yaha par short karna ho kisi bhi structure just like employee ko to apn type def use kr skte ho to 
+// employee ko apn convert kar skte hai ep ya kisi bhi given keyword me
 
 
 

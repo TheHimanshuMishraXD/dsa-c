@@ -17,11 +17,15 @@ int main()
     // mathmarks[1] = 564;
     // cout<<mathmarks[1]<<endl;
 
-    for(int i=0;i<4;i++){
-        cout<<marks[i]<<endl;
+    // for(int i=0;i<4;i++){
+    //     cout<<marks[i]<<endl;
 
-    }
-
+    // }
+//here we do this using while loop
+   int  i = 0;
+    while(i<4);
+    i = i + 1;
+    cout<<marks[i]<<endl;
 
 
     return 0;

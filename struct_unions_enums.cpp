@@ -18,7 +18,7 @@ typedef struct Employee
 int main()
 {
     ep himanshu;
-    struct ep shubham;
+    struct ep shubham; // idhr pe ham struct ko use krke ep laga dege type def karke
     struct ep harsh;
     himanshu.eid = 1;
     himanshu.favchar = 'c';

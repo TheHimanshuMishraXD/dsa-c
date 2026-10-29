@@ -46,7 +46,7 @@ union money
 {
     int rice;
     char car;
-    float pounds;
+    float pounds; // unions stands for better memory management
 };
 
 

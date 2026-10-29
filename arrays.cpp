@@ -18,7 +18,7 @@ int main()
     // cout<<mathmarks[1]<<endl;
 
     for(int i=0;i<4;i++){
-        cout<<i<<endl;
+        cout<<marks[i]<<endl;
 
     }
 

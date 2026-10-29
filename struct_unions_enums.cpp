@@ -33,29 +33,42 @@
 
 
 
+// #include<iostream>
+// using namespace std;
+// typedef struct Employee
+// {
+//     int eid;
+//     char favchar;
+//     float salary;
+// }ep;
+
+// union money
+// {
+//     int rice;
+//     char car;
+//     float pounds; // unions stands for better memory management
+// };
+
+
+// int main()
+// { union money m1;
+//     m1.rice = 45;
+//     m1.car = 'c';
+//     cout<<m1.rice<<endl;
+//     // cout<<m1.car<<endl;
+    
+//     return 0;
+// }
+
+
 #include<iostream>
 using namespace std;
-typedef struct Employee
-{
-    int eid;
-    char favchar;
-    float salary;
-}ep;
-
-union money
-{
-    int rice;
-    char car;
-    float pounds; // unions stands for better memory management
-};
-
 
 int main()
-{ union money m1;
-    m1.rice = 45;
-    m1.car = 'c';
-    cout<<m1.rice<<endl;
-    // cout<<m1.car<<endl;
-    
+{
+    enum Meal{breakfast,lunch,dinner};
+    cout<<breakfast<<endl;
+    cout<<lunch<<endl;
+    cout<<dinner<<endl;
     return 0;
 }

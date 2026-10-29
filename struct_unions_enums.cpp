@@ -50,12 +50,10 @@ union money
 };
 
 
-
-
-
-
 int main()
-{
+{ union money m1;
+    m1.rice = 4547;
+    cout<<m1.rice<<endl;
     
     return 0;
 }

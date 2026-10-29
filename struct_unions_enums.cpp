@@ -60,14 +60,15 @@
 //     return 0;
 // }
 
-
+// enum -- >Exam tip: Enum ka use related constant values ko meaningful names dene ke liye hota hai.
 #include<iostream>
 using namespace std;
 
 int main()
 {
     enum Meal{breakfast,lunch,dinner};
-    cout<<breakfast<<endl;
+    Meal m1 = breakfast;
+    cout<<m1<<endl;
     cout<<lunch<<endl;
     cout<<dinner<<endl;
     return 0;

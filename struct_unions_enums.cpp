@@ -54,8 +54,8 @@ int main()
 { union money m1;
     m1.rice = 45;
     m1.car = 'c';
-    // cout<<m1.rice<<endl;
-    cout<<m1.car<<endl;
+    cout<<m1.rice<<endl;
+    // cout<<m1.car<<endl;
     
     return 0;
 }

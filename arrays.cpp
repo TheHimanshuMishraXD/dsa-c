@@ -24,8 +24,9 @@ int main()
 //here we do this using while loop
    int  i = 0;
     while(i<4){
-    i = i + 1;
+   
     cout<<marks[i]<<endl;
+     i = i + 1;
     }
 
 

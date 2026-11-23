@@ -21,6 +21,8 @@ void swappointer(int *a , int *b){
     *b = temp;
 }
 
+// call by refernce variable using c++ refernce variables
+
 
 int main()
 {

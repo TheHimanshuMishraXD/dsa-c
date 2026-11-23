@@ -22,5 +22,4 @@ int sum(int a , int b){
     cout<<"the sum is"<<sum(num1 , num2)<<endl;
     return 0;
 
-    return 0;
  }

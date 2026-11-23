@@ -34,6 +34,7 @@ int sum(int a , int b){
  }
 
  int sum(int a , int b){
+    // formal parameter a and b will be taking values  frim actual  parameters num1 and num2
     int c = a+b;
     return c;
 

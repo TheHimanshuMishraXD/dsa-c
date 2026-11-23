@@ -23,7 +23,7 @@ void swappointer(int *a , int *b){
 
 // call by refernce variable using c++ refernce variables
 void swapreferncevar(int &a , int &b){
-    int temp = *a;
+    int temp = a;
     a = b;
     b = temp;
 }

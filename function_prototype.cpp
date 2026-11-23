@@ -6,6 +6,7 @@
  using namespace std;
 
 //  function prototype
+// type function-name (arguments)
  
 int sum(int a , int b){
     int c = a+b;

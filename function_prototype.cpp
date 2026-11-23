@@ -19,6 +19,7 @@ int sum(int a , int b){
     cin>>num1;
     cout<<"enter the second number"<<endl;
     cin>>num2;
+    cout<<"the sum is"<<sum(num1 , num2)<<endl;
     return 0;
 
     return 0;

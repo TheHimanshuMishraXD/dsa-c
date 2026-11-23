@@ -13,6 +13,8 @@ void swap(int a , int b){
     b = temp;
 
 }
+
+// call b y refrence using pointer
 void swappointer(int *a , int *b){
     int temp = *a;
     *a = *b;

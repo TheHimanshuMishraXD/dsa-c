@@ -17,7 +17,7 @@ void swap(int a , int b){
 int main()
 {
     int a = 4 , b = 5;
-    cout<<"the sum of 4 and 5 is "<<sum(a,b);
+    // cout<<"the sum of 4 and 5 is "<<sum(a,b);
     
     return 0;
 }

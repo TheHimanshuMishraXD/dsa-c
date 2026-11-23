@@ -14,9 +14,11 @@ int sum(int a , int b){
 
  int main()
  {
-    int num 1 , int num 2;
+    int num1 ,num2;
     cout<<"enter the first number"<<endl;
-    cin>>num 1;
-    cout<<
+    cin>>num1;
+    cout<<"enter the second number"<<endl;
+    cin>>num2;
+
     return 0;
  }

@@ -38,7 +38,8 @@ int main()
     swappointer(&a,&b);
         cout<<"the value of a is:"<<a<<"and the value of b is:"<<b<<endl;
 
-    swapreferncevar(x,y);
+    swapreferncevar(a,b);
+
 
     
     return 0;

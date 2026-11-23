@@ -39,6 +39,7 @@ int main()
         cout<<"the value of a is:"<<a<<"and the value of b is:"<<b<<endl;
 
     swapreferncevar(a,b);
+    cout<<"the value of x is"<<x<<"the value of y is"<<y<<endl;
 
 
     

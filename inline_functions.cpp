@@ -9,7 +9,7 @@ inline int product(int a , int b){
 }
 
 float moneyrecieved(int currentmoney , float factor=1.04){
-    return currentmoney*factor
+    return currentmoney*factor;
 
 }
 int main()

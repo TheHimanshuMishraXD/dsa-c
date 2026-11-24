@@ -15,7 +15,7 @@ float moneyrecieved(int currentmoney , float factor=1.04){
 int main()
 {
     int a , b;
-    cout<<"enter the value of a and b"<<endl;
+    // cout<<"enter the value of a and b"<<endl;
     cin>>a>>b;
     // cout<<"the product a and b is"<<product(a,b);
     int money = 1000;

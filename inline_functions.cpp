@@ -19,7 +19,7 @@ int main()
     cin>>a>>b;
     // cout<<"the product a and b is"<<product(a,b);
     int money = 1000;
-    cout<<"if you have "<<money<<"rs in your bank account recieve"<<moneyrecieved(money)<<"rs after 1 year"
+    cout<<"if you have "<<money<<"rs in your bank account recieve"<<moneyrecieved(money)<<"rs after 1 year"<<endl;
     
     return 0;
 }

@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int product(int a , int b){
+inline int product(int a , int b){
     return a*b;
 }
 int main()

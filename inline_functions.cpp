@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-inline int product(int a , int b){
+inline int product(int a , int b){ // inline tb banate hai jab function me naa ke barabar kaam ho rha ho yaani ki choe codes me
     return a*b;
 }
 int main()

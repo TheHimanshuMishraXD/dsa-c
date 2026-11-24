@@ -8,7 +8,7 @@ inline int product(int a , int b){
     return a*b+c;
 }
 
-float moneyrecieved(int currentmoney , int factor=1.04){
+float moneyrecieved(int currentmoney , float factor=1.04){
     return currentmoney*factor
 
 }

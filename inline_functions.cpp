@@ -18,6 +18,8 @@ int main()
     cout<<"enter the value of a and b"<<endl;
     cin>>a>>b;
     // cout<<"the product a and b is"<<product(a,b);
+    int money = 1000;
+    cout<<"if you have "<<money<<"rs in your bank"
     
     return 0;
 }

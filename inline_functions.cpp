@@ -12,6 +12,7 @@ float moneyrecieved(int currentmoney , float factor=1.04){
     return currentmoney*factor;
 
 }
+// for constant argument
 int main()
 {
     int a , b;

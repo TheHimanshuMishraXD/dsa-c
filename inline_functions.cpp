@@ -13,7 +13,9 @@ float moneyrecieved(int currentmoney , float factor=1.04){
 
 }
 // for constant argument
-int strlen(const char *p)
+int strlen(const char *p){
+    
+}
 int main()
 {
     int a , b;

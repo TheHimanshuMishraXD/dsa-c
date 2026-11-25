@@ -15,6 +15,10 @@ int volume(double r , int h){
     return (3.14 * r * r *h);
 }
 
+int volume(int a){
+    return a*a*a;
+}
+
 
 int main()
 {

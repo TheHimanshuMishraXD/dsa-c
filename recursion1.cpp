@@ -22,7 +22,7 @@ int main()
     int n;
     cout<<"enter the number:  "<<endl;
     cin>>n;
-    cout<<"f of"<<n<<"is"<<factorial(n)<<endl;
+    cout<<"f of"<<n<<"is"<<febonacci(n)<<endl;
     
     return 0;
 }

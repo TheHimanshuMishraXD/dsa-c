@@ -1,3 +1,5 @@
+Recursion is a programming technique in which a function calls itself repeatedly to solve a problem by breaking it into smaller subproblems until a base condition is reached.
+
 // #include<iostream>
 // using namespace std;
 

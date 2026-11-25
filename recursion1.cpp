@@ -13,6 +13,7 @@ int factorial(int n){
 int main()
 {
     int a;
+    cout<<"enter the number:  "<<endl;
     cin>>a;
     cout<<"factorial"<<factorial(a)<<endl;
     

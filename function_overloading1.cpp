@@ -14,7 +14,7 @@ int add(int a , int b , int c){
 int volume(double r , int h){
     return (3.14 * r * r *h);
 }
-
+// for cube
 int volume(int a){
     return a*a*a;
 }

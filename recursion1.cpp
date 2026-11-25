@@ -13,7 +13,7 @@ int factorial(int n){
 int main()
 {
     int a;
-    cin>>n;
+    cin>>a;
     cout<<"factorial"<<factorial(a)<<endl;
     
     return 0;

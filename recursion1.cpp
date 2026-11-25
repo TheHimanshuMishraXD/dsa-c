@@ -22,7 +22,7 @@ int main()
     int n;
     cout<<"enter the number:  "<<endl;
     cin>>n;
-    cout<<"febonacci of"<<n<<"is"<<febonacci(n)<<endl;
+    cout<<"febonacci of\n"<<n<<"is"<<febonacci(n)<<endl;
     
     return 0;
 }

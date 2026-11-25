@@ -10,6 +10,9 @@ int factorial(int n){
 }
 
 int febonacci(int n){
+    if(n<2){
+        return n;
+    }
     return febonacci(n-2) + febonacci(n-1);
 }
 
@@ -19,7 +22,7 @@ int main()
     int n;
     cout<<"enter the number:  "<<endl;
     cin>>n;
-    cout<<"factorial of"<<n<<"is"<<factorial(n)<<endl;
+    cout<<"f of"<<n<<"is"<<factorial(n)<<endl;
     
     return 0;
 }

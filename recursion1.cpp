@@ -64,6 +64,10 @@ int power(int n,int c){
 }
 int main()
 {
+    int n;
+    cout<<"enter the value of n : \n"<<endl;
+    cin>>n;
+    cout<<"this is the power of"<<n<<power(n)
     
     return 0;
 }

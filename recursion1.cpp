@@ -51,3 +51,19 @@
 
 
 // Task 2: Power of a Number
+
+#include<iostream>
+using namespace std;
+
+int power(int n,c){
+    if (n==1){
+        return 1;
+    }
+    return power(n,c) = 
+
+}
+int main()
+{
+    
+    return 0;
+}

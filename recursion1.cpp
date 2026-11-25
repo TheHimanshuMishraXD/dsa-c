@@ -55,11 +55,11 @@
 #include<iostream>
 using namespace std;
 
-int power(int n,c){
-    if (n==1){
+int power(int n,int c){
+    if (c==1){
         return 1;
     }
-    return power(n,c) = 
+    return n*power(n,c-1);
 
 }
 int main()

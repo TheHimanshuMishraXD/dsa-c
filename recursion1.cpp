@@ -67,6 +67,8 @@ int main()
     int n;
     cout<<"enter the value of n : \n"<<endl;
     cin>>n;
+    int c;
+    cin>>c;
     cout<<"this is the power of"<<n<<power(n,c)<<endl;
     
     return 0;

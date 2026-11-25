@@ -11,7 +11,7 @@ int factorial(int n){
 
 int febonacci(int n){
     if(n<2){
-        return n;
+        return 1;
     }
     return febonacci(n-2) + febonacci(n-1);
 }

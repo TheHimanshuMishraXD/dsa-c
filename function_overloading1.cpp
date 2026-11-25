@@ -11,6 +11,9 @@ int add(int a , int b , int c){
     cout<<" using function with three argument"<<endl;
     return a+b+c;
 }
+int volume(double r , int h){
+    return (3.14 * r * r *h);
+}
 
 
 int main()

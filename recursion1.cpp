@@ -10,7 +10,7 @@ int factorial(int n){
 }
 
 int febonacci(int n){
-    return febonacci(n-2) + febonacci(n-1)
+    return febonacci(n-2) + febonacci(n-1);
 }
 
 

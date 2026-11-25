@@ -42,6 +42,9 @@ int sum(int n){
 
 int main()
 {
-    
+    int n;
+    cout<<"enter the number you want to \n"<<endl;
+    cin>>n;
+    cout<<"here is the sum of the number"<<sum(n)<<endl;
     return 0;
 }

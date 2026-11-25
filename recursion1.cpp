@@ -56,7 +56,7 @@
 using namespace std;
 
 int power(int n,int c){
-    if (c==1){
+    if (c==1 and c==2){
         return 1;
     }
     return n*power(n,c-1);

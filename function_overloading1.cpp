@@ -19,7 +19,9 @@ int volume(int a){
     return a*a*a;
 }
 // rectangular box
-int volume (int l , int b , int h)
+int volume (int l , int b , int h){
+    return (l*b*h);
+}
 
 
 int main()

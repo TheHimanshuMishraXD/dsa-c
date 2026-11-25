@@ -26,3 +26,15 @@
     
 //     return 0;
 // }
+
+
+// Task 1: Sum of N Natural Numbers
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    
+    return 0;
+}

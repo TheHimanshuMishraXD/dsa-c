@@ -15,7 +15,7 @@ int main()
     int n;
     cout<<"enter the number:  "<<endl;
     cin>>n;
-    cout<<"factorial of"<<a<<"is<<factorial(n)<<endl;
+    cout<<"factorial of"<<n<<"is<<factorial(n)<<endl;
     
     return 0;
 }

@@ -1,5 +1,9 @@
-Recursion is a programming technique in which a function calls itself repeatedly to solve a problem by breaking it into smaller subproblems until a base condition is reached.
+// Recursion is a programming technique in which a function calls itself repeatedly to solve a problem by 
+// breaking it into smaller subproblems until a base condition is reached.
 
+
+// Recursion ek programming technique hai jisme koi function kisi problem ko chhote parts mein solve karne ke liye khud ko baar-baar call karta hai,
+//  jab tak ek stopping condition (Base Case) achieve nahi ho jaati.
 // #include<iostream>
 // using namespace std;
 

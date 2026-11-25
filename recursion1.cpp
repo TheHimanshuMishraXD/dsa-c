@@ -14,8 +14,8 @@ int main()
 {
     int a;
     cout<<"enter the number:  "<<endl;
-    cin>>a;
-    cout<<"factorial"<<factorial(a)<<endl;
+    cin>>an;
+    cout<<"factorial"<<factorial(n)<<endl;
     
     return 0;
 }

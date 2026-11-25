@@ -30,24 +30,24 @@
 
 // Task 1: Sum of N Natural Numbers
 
-#include<iostream>
-using namespace std;
-int sum(int n){
-    if (n==0){
-        return 0;
-    }
-    return n + sum(n-1);
-}
+// #include<iostream>
+// using namespace std;
+// int sum(int n){
+//     if (n==0){
+//         return 0;
+//     }
+//     return n + sum(n-1);
+// }
 
 
-int main()
-{
-    int n;
-    cout<<"enter the number you want to \n"<<endl;
-    cin>>n;
-    cout<<"here is the sum of the number"<<sum(n)<<endl;
-    return 0;
-}
+// int main()
+// {
+//     int n;
+//     cout<<"enter the number you want to \n"<<endl;
+//     cin>>n;
+//     cout<<"here is the sum of the number"<<sum(n)<<endl;
+//     return 0;
+// }
 
 
 // Task 2: Power of a Number

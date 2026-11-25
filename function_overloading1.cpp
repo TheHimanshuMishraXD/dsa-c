@@ -18,6 +18,8 @@ int volume(double r , int h){
 int volume(int a){
     return a*a*a;
 }
+// rectangular box
+int volume (int l , int b , int h)
 
 
 int main()

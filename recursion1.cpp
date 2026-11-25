@@ -48,3 +48,6 @@ int main()
     cout<<"here is the sum of the number"<<sum(n)<<endl;
     return 0;
 }
+
+
+// Task 2: Power of a Number
